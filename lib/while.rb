@@ -7,9 +7,9 @@ def using_while
 end
 
 
-levitation_force = 0
+levitation_force = 6
 
-while levitation_force < 7
+while levitation_force < 10 
   levitation_force += 1
   puts "You have now eaten #{levitation_force} hot dog(s)."
 end
