@@ -7,11 +7,11 @@ def using_while
 end
 
 
-num_of_hotdogs_eaten = 6
+levitation_force = 0
 
-while num_of_hotdogs_eaten < 10 
-  num_of_hotdogs_eaten += 1
-  puts "You have eaten another hot dog."
+while levitation_force < 7
+  levitation_force += 1
+  puts "You have now eaten #{levitation_force} hot dog(s)."
 end
 
  
