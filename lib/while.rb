@@ -7,11 +7,11 @@ def using_while
 end
 
 
-num_of_hotdogs_eaten = 0
+num_of_hotdogs_eaten = 6
 
-while num_of_hotdogs_eaten < 7
+while num_of_hotdogs_eaten < 10 
   num_of_hotdogs_eaten += 1
-  puts "You have now eaten #{num_of_hotdogs_eaten} hot dog(s)."
+  puts "You have eaten another hot dog."
 end
 
  
