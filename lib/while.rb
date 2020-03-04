@@ -11,7 +11,7 @@ levitation_force = 6
 
 while levitation_force < 10 
   levitation_force += 1
-  puts "You have now eaten #{levitation_force} hot dog(s)."
+  puts "Wingardium Leviosa level #{levitation_force}"
 end
 
  
